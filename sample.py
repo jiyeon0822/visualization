@@ -1,5 +1,4 @@
 import streamlit as st
-import awesome_streamlit as ast
 
 import src.home
 import src.about
