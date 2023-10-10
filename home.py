@@ -1,13 +1,10 @@
 import streamlit as st
 
-import src.home
-import src.about
-
-import pages.home
+import pages.sample
 import pages.about
 
 PAGES = {
-  "home" : pages.home,
+  "home" : pages.sample,
   "about" : pages.about
 }
 
