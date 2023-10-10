@@ -3,8 +3,8 @@ import streamlit as st
 import src.home
 import src.about
 
-import src.home
-import src.about
+import pages.home
+import pages.about
 
 PAGES = {
   "home" : pages.home,
